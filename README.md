@@ -63,7 +63,7 @@ If the grid fills up → Draw
 ▶️ How to Run the Game
 
 ###Clone the repository
-git clone https://github.com/your-username/connect-four-game.git
+git clone https://github.com/Ankurchoudhary75/connect-four-game.git
 
 ###Move to the project directory
 cd connect-four-game
