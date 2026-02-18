@@ -119,6 +119,3 @@ Sound effects & animations
 
 Ankur
 GitHub: https://github.com/Ankurchoudhary75
-Clean and readable logic
-
-Console-based interface (easy to upgrade to GUI)
